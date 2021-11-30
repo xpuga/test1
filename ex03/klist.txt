@@ -1,0 +1,5 @@
+caCredentials cache: API:9A55D92B-E4E0-41A9-BB99-8F66A0E1FFF8
+        Principal: xpuga-ro@42BARCELONA.COM
+
+  Issued                Expires               Principal
+Nov 30 18:11:22 2021  Dec  1 04:10:59 2021  krbtgt/42BARCELONA.COM@42BARCELONA.COM
